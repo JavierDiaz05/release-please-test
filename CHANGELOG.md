@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.1.0](https://github.com/JavierDiaz05/release-please-test/compare/release-please-test-v2.0.1...release-please-test-v2.1.0) (2026-04-18)
+
+
+### Added (Nuevas funcionalidades)
+
+* agrego funcion logout en modulo de autenticacion ([00cea46](https://github.com/JavierDiaz05/release-please-test/commit/00cea467b68f8396cea462a240945f3e7faba056))
+* agrego funcion truncate para recortar strings largos ([11cf8e7](https://github.com/JavierDiaz05/release-please-test/commit/11cf8e7daa69a54389824ecb9399ae0dd6f58398))
+
+
+### Fixed (Correcciones)
+
+* agrego metodos remove y clear que faltaban en el modulo de cache ([9d98cb8](https://github.com/JavierDiaz05/release-please-test/commit/9d98cb88651f5bec49d8c72701d55582d803b53d))
+
 ## [2.0.1](https://github.com/JavierDiaz05/release-please-test/compare/release-please-test-v2.0.0...release-please-test-v2.0.1) (2026-04-18)
 
 
