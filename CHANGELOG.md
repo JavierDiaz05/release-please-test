@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.1](https://github.com/JavierDiaz05/release-please-test/compare/release-please-test-v2.0.0...release-please-test-v2.0.1) (2026-04-18)
+
+
+### Fixed (Correcciones)
+
+* corrijo llamada a fetchUser sin id que causaba request invalido ([992214c](https://github.com/JavierDiaz05/release-please-test/commit/992214c4a1771a9894af671619417fa021a5f1b5))
+* corrijo set en cache que aceptaba keys nulas o indefinidas ([78cf88b](https://github.com/JavierDiaz05/release-please-test/commit/78cf88b43fe236d6af5ea80127a313e6ae438a39))
+
 ## [2.0.0](https://github.com/JavierDiaz05/release-please-test/compare/release-please-test-v1.2.0...release-please-test-v2.0.0) (2026-04-18)
 
 
