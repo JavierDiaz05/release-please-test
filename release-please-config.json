@@ -3,12 +3,12 @@
     ".": {
       "release-type": "node",
       "changelog-sections": [
-        { "type": "feat", "section": "### Added (Nuevas funcionalidades)" },
-        { "type": "fix", "section": "### Fixed (Correcciones)" },
-        { "type": "refactor", "section": "### Changed (Cambios y Mejoras)" },
-        { "type": "perf", "section": "### Changed (Cambios y Mejoras)" },
-        { "type": "style", "section": "### Changed (Cambios y Mejoras)" },
-        { "type": "revert", "section": "### Removed (Eliminaciones)" },
+        { "type": "feat", "section": "Added (Nuevas funcionalidades)" },
+        { "type": "fix", "section": "Fixed (Correcciones)" },
+        { "type": "refactor", "section": "Changed (Cambios y Mejoras)" },
+        { "type": "perf", "section": "Changed (Cambios y Mejoras)" },
+        { "type": "style", "section": "Changed (Cambios y Mejoras)" },
+        { "type": "revert", "section": "Removed (Eliminaciones)" },
         { "type": "chore", "hidden": true },
         { "type": "build", "hidden": true },
         { "type": "ci", "hidden": true },
