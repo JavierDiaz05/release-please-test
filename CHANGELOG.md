@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.0.0](https://github.com/JavierDiaz05/release-please-test/compare/release-please-test-v1.2.0...release-please-test-v2.0.0) (2026-04-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* cambio breaking en la API de autenticacion
+* cambio breaking en la API de autenticacion
+* cambio breaking en la API de autenticacion
+
+### ### Added (Nuevas funcionalidades)
+
+* cambio breaking en la API de autenticacion ([fde416a](https://github.com/JavierDiaz05/release-please-test/commit/fde416a9cede10a424253cf3d286e4ce3c58abf0))
+* cambio breaking en la API de autenticacion ([fde416a](https://github.com/JavierDiaz05/release-please-test/commit/fde416a9cede10a424253cf3d286e4ce3c58abf0))
+* cambio breaking en la API de autenticacion ([7ae879c](https://github.com/JavierDiaz05/release-please-test/commit/7ae879c253984db6581b4352b39425e4d1d95096))
+
 ## [1.2.0](https://github.com/JavierDiaz05/release-please-test/compare/release-please-test-v1.1.0...release-please-test-v1.2.0) (2026-04-18)
 
 
