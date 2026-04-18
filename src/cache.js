@@ -5,6 +5,7 @@ function get(key) {
 }
 
 function set(key, value) {
+  if (key === undefined || key === null) throw new Error('key is required');
   store.set(key, value);
 }
 
