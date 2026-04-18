@@ -4,7 +4,10 @@ async function fetchUser(id) {
 }
 
 async function fetchProducts(filters = {}) {
-  const params = new URLSearchParams(filters);
+  const cleanFilters = Object.fromEntries(
+    Object.entries(filters).filter(([, v]) => v !== undefined && v !== null)
+  );
+  const params = new URLSearchParams(cleanFilters);
   const res = await fetch(`/api/products?${params}`);
   return res.json();
 }
