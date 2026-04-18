@@ -1,4 +1,5 @@
 async function fetchUser(id) {
+  if (!id) throw new Error('id is required');
   const res = await fetch(`/api/users/${id}`);
   return res.json();
 }
